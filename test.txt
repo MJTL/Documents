@@ -1,0 +1,10 @@
+X-DSPAM-Confidence: 3
+X-DSPAM-Probability: 0.0000
+
+Details: http://source.sakaiproject.org/viewsvn/?view=rev&rev=39772
+X-DSPAM-Confidence: 7
+X-DSPAM-Probability: 0.0000
+
+Details: http://source.sakaiproject.org/viewsvn/?view=rev&rev=39771
+
+X-DSPAM-Confidence: 12
