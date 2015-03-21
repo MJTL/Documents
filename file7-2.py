@@ -16,14 +16,12 @@ for line in fhand:
             max=number
             print 's',max
 
-
-
         sum = sum + number  # equivalent to sum += number
 
         print line
         print sum
 
-print'M', max
+print 'M', max
 
 print total
 result = 0
