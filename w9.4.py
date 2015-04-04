@@ -31,29 +31,16 @@ for line in fhand:
 
 
 
-        emails= senders.keys()
-        for email in emails:
-            number = senders [email]
-            if number > numbermax:
-                numbermax = number
-                emailmax = email
-print emailmax, numbermax
 
 
 
 
+emails = senders.keys()
 
-
-
-
-'''
-       # print raw
-emails=[raw]
-counts= list()
 for email in emails:
-    if email not in counts:
-        counts[email]= 1
-    else:
-        counts[email] = counts [email] + 1
-print counts
-'''
+    number= senders [email]
+    if number > numbermax:
+        numbermax = number
+        emailmax = email
+
+print emailmax, numbermax
